@@ -1,0 +1,96 @@
+aac(3)-IVa	Gentamicin, Apramycin
+aac(3)IVa	Gentamicin, Apramycin
+aac(3)VIa	Gentamicin
+aac(6')-IIc	Gentamicin
+aac(6')-Iy	
+aac(6')Ib-cr	Amikacin
+aac(6')Ibcr	Amikacin
+aac(6')IIc	Gentamicin
+aac(6)-Iaa		
+aac(6)-Ib-cr	Amikacin
+aac(6)-IIc	Gentamicin
+aac(6)-Iy		
+aadA	Streptomycin
+aadB	Streptomycin
+aadD	Streptomycin
+ACC-1	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+ant(2)-Ia	Gentamicin
+aph(3')-Ia	Neomycin
+aph(3')-IIa	Neomycin
+aph(3')Ia	Neomycin
+aph(3')Ic	Neomycin
+aph(3')IIa	Neomycin
+aph(3)-IIa	Neomycin
+aph(4)-Ia	
+aph(4)Ia	
+aph(6)-Ic	Streptomycin
+aph(6)-Id	Streptomycin
+aph(6)Ic	Streptomycin
+blaACC-1	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+blaACC1	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+blaCARB2	Ampicillin, Ceftazidime, Cefotaxime
+blaCMY-13	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+blaCMY-2	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+blaCMY-38	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+blaCMY-40	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+blaCMY-49	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+blaCMY-80	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+blaCMY2	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+blaCTX-M-1	Ampicillin, Ceftazidime, Cefotaxime
+blaCTX-M-116	Ampicillin, Ceftazidime, Cefotaxime
+blaCTX-M-14	Ampicillin, Ceftazidime, Cefotaxime
+blaCTX-M-15	Ampicillin, Ceftazidime, Cefotaxime
+blaCTX-M-30	Ampicillin, Ceftazidime, Cefotaxime
+blaCTX-M-33	Ampicillin, Ceftazidime, Cefotaxime
+blaCTX-M-9	Ampicillin, Ceftazidime, Cefotaxime
+blaCTXM1	Ampicillin, Ceftazidime, Cefotaxime
+blaCTXM14	Ampicillin, Ceftazidime, Cefotaxime
+blaCTXM15	Ampicillin, Ceftazidime, Cefotaxime
+blaCTXM55	Ampicillin, Ceftazidime, Cefotaxime
+blaCTXM9	Ampicillin, Ceftazidime, Cefotaxime
+blaOXA-1	Ampicillin, Amoxicillin
+blaOXA1	Ampicillin, Amoxicillin
+blaSHV-12	Ampicillin, Ceftazidime, Cefotaxime
+blaSHV-143	Ampicillin
+blaSHV12	Ampicillin, Ceftazidime,Cefotaxime
+blaSHV2	Ampicillin, Ceftazidime, Cefotaxime
+blaTEM-194	Ampicillin
+blaTEM-1B	Ampicillin
+blaTEM1A	Ampicillin
+blaTEM1B	Ampicillin
+blaTEM1C	Ampicillin
+blaTEM1D	Ampicillin
+blaTEM52B	Ampicillin, Ceftazidime, Cefotaxime
+blaTEM84	Ampicillin, Amoxicillin
+catA	Chloramphenicol
+cml	Chloramphenicol
+CMY-2	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+CMY-59	Ampicillin, Ceftazidime, Cefotaxime, Amoxicillin
+CTX-M-1	Ampicillin, Ceftazidime, Cefotaxime
+CTX-M-14	Ampicillin, Ceftazidime, Cefotaxime
+CTX-M-15	Ampicillin, Ceftazidime, Cefotaxime
+CTX-M-9	Ampicillin, Ceftazidime, Cefotaxime
+dfrA	Sulphamethoxazole-trimethoprim
+floR	Chloramphenicol
+gyrA_SET	Nalidixic-acid, Ciprofloxacin
+lnu(B)	
+lnu(F)	
+mph(A)	
+mph(B)	
+OXA-1	Ampicillin, Amoxicillin
+arC_SET	Nalidixic-acid, Ciprofloxacin
+qnr	Nalidixic-acid, Ciprofloxacin
+Qnr	Nalidixic-acid, Ciprofloxacin
+rpoB_SET		
+sat2A	
+SHV-12	Ampicillin, Ceftazidime, Cefotaxime
+strA	Streptomycin
+strB	Streptomycin
+sul	Sulphonamide-compounds 
+TEM-1	Ampicillin
+TEM-117-p	Ampicillin
+TEM-191-p	Ampicillin
+tet(A)	Tetracycline
+tet(B)	Tetracycline
+tet(D)	Tetracycline
+tet(M)	Tetracycline
